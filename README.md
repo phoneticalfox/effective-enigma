@@ -27,7 +27,7 @@ The MSI Z77A-GD65 motherboard features a dual BIOS system for redundancy. If bot
 2. **Prepare the USB Drive**
    - Format a USB drive to FAT32 file system
    - Rename the downloaded BIOS file to `MSI.ROM` (all uppercase)
-   - Copy `MSI.ROM` to the root of the USB drive (USB:/root/`MSI.ROM`)
+   - Copy `MSI.ROM` to the root of the USB drive (looking something like: `USB:`/`root`/`MSI.ROM`)
 
 3. **Perform USB BIOS Flashback**
    - Plug the USB drive into the designated USB BIOS Flashback port on your motherboard
